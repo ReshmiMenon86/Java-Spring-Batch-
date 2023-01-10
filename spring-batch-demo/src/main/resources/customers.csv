@@ -1,0 +1,6 @@
+﻿id,firstName,lastName,email,gender,contactNo,country,dob
+1,Pinky,Ponky,inky@gmail.com,female,12312,India,12/7/1987
+2,Jack,Jill,hill@gmail.com,male,12312,India,12/5/1985
+3,Humpty,Dumpty,dumpty@gmail.com,,12312,USA,12/6/1985
+4,Wheels,Bus,bus@gmail.com,,12312,France,12/7/1985
+5,Marry,Lamp,little@gmail.com,,12312,Germany,12/8/1985
